@@ -4,7 +4,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class FirstSeleniumTest {
     public static void main(String[] args) {
-        git init
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
 
